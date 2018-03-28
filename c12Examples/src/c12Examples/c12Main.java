@@ -21,6 +21,12 @@ public class c12Main {
 		new drawFontsJPanel_12_1().setVisible(true);
 
 		new labelColorsJFrame12_2().setVisible(true);
+		
+		new chapter12_3_drawtext().setVisible(true);
+		
+		new chapter12_4_drawRectangle().setVisible(true);
+		
+		new chapter12_5_drawShapes().setVisible(true);
 	}
 
 }

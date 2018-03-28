@@ -33,6 +33,12 @@ public class c12Main {
 		new chapter12_Exercize_19_PizzaOrders().setVisible(true);
 
 		new chapter12_Example_FlowLayout().setVisible(true);
+		
+		new chapter12_Example_BorderLayout().setVisible(true);
+		
+		new chapter12_Example_MenuTextEditor().setVisible(true);
+		
+		new chapter12_8_OneChar_KeyEvents().setVisible(true);
 	}
 
 }

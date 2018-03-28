@@ -27,6 +27,12 @@ public class c12Main {
 		new chapter12_4_drawRectangle().setVisible(true);
 		
 		new chapter12_5_drawShapes().setVisible(true);
+		
+		new chapter12_Exercize_17_circles().setVisible(true);
+		
+		new chapter12_Exercize_19_PizzaOrders().setVisible(true);
+
+		new chapter12_Example_FlowLayout().setVisible(true);
 	}
 
 }

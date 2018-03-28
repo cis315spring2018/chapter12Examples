@@ -18,7 +18,9 @@ public class c12Main {
 		
 		System.out.println("Malik Chapter 12 examples.");
 		
-		new drawFontsJPanel_12_1().setVisible(true);
+		/*
+		 * new drawFontsJPanel_12_1().setVisible(true);
+		 
 
 		new labelColorsJFrame12_2().setVisible(true);
 		
@@ -36,11 +38,16 @@ public class c12Main {
 		
 		new chapter12_Example_BorderLayout().setVisible(true);
 		
-		new chapter12_Example_MenuTextEditor().setVisible(true);
+		/*
+		 * new chapter12_Example_MenuTextEditor().setVisible(true);
+		 
 		
 		new chapter12_8_OneChar_KeyEvents().setVisible(true);
 		
 		new chapter12_9_MouseExample().setVisible(true);
+		*/
+		
+		new chapter12_Exercize_19_PizzaMenu().setVisible(true);
 	}
 
 }
